@@ -34,3 +34,5 @@ pipeline{
        echo 'Hello world' 
       }
     }
+  }
+}
